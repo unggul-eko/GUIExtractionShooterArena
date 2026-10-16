@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+--no-fonts
+--class-path
+'C:/Users/MyBook Hype AMD/.m2/repository/org/openjfx/javafx-controls/21.0.9/javafx-controls-21.0.9.jar;C:/Users/MyBook Hype AMD/.m2/repository/org/openjfx/javafx-graphics/21.0.9/javafx-graphics-21.0.9.jar;C:/Users/MyBook Hype AMD/.m2/repository/org/openjfx/javafx-base/21.0.9/javafx-base-21.0.9.jar;C:/Users/MyBook Hype AMD/.m2/repository/org/openjfx/javafx-fxml/21.0.9/javafx-fxml-21.0.9.jar'
+--module-path
+'C:/Users/MyBook Hype AMD/.m2/repository/org/openjfx/javafx-base/21.0.9/javafx-base-21.0.9-win.jar;C:/Users/MyBook Hype AMD/.m2/repository/org/openjfx/javafx-graphics/21.0.9/javafx-graphics-21.0.9-win.jar;C:/Users/MyBook Hype AMD/.m2/repository/org/openjfx/javafx-fxml/21.0.9/javafx-fxml-21.0.9-win.jar;D:/Master Axioo/kuliah/matkul/semester 3/OOP/extractionShooterGUI/target/classes;C:/Users/MyBook Hype AMD/.m2/repository/org/openjfx/javafx-controls/21.0.9/javafx-controls-21.0.9-win.jar'
+--patch-module
+com.mycompany.extractionshootergui='D:/Master Axioo/kuliah/matkul/semester 3/OOP/extractionShooterGUI/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'D:/Master Axioo/kuliah/matkul/semester 3/OOP/extractionShooterGUI/target/reports/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Master Axioo/kuliah/matkul/semester 3/OOP/extractionShooterGUI/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'extractionShooterGUI 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/Master Axioo/kuliah/matkul/semester 3/OOP/extractionShooterGUI/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'extractionShooterGUI 1.0-SNAPSHOT API'
+com.mycompany.extractionshootergui
+'D:/Master Axioo/kuliah/matkul/semester 3/OOP/extractionShooterGUI/src/main/java/module-info.java'
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\allclasses-index.html = 1792161113440
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\allpackages-index.html = 1792161113443
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\element-list = 1792161113311
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\help-doc.html = 1792161113483
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\index-all.html = 1792161113470
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\index.html = 1792161113475
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\member-search-index.js = 1792161113448
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\module-search-index.js = 1792161113444
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\overview-tree.html = 1792161113418
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\package-search-index.js = 1792161113445
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\search.html = 1792161113472
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\tag-search-index.js = 1792161113449
+D:\Master Axioo\kuliah\matkul\semester 3\OOP\extractionShooterGUI\target\reports\apidocs\type-search-index.js = 1792161113446
